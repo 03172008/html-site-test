@@ -1,0 +1,56 @@
+#maintitle {
+  text-align: center;
+  color: magenta;
+  font-family: cursive;
+}
+
+#credit {
+  color: black;
+  text-align: center;
+  font-family: monospace;
+  position: absolute;
+}
+
+a {
+  color:magenta;
+  text-decoration: none;
+}
+
+a:hover {
+  color:cyan;
+}
+
+.bulletedlist {
+  color: red;
+  font-family: monospace;
+}
+
+#coolsitethingtitle {
+  color: magenta;
+}
+
+#colors {
+  color: green;
+}
+
+#fontz {
+  font-family: cursive;
+}
+
+#maintitle {
+  color:magenta;
+  text-decoration: none;
+}
+
+#maintitle:hover {
+  color:cyan;
+}
+
+#coolsitethingtitle {
+  color:magenta;
+  text-decoration: none;
+}
+
+#coolsitethingtitle:hover {
+  color:cyan;
+}
